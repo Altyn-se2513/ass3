@@ -60,9 +60,9 @@ Sorted arrays
 Sample Results Table
 | Size | Bubble Sort | Quick Sort | Linear Search |
 |------|------------|------------|--------------|
-| 10   | 15000 ns   | 8000 ns    | 3000 ns      |
-| 100  | 250000 ns  | 40000 ns   | 5000 ns      |
-| 1000 | 6000000 ns | 200000 ns  | 12000 ns     |
+| 10   | 8100  ns   | 12700 ns   | 4600 ns      |
+| 100  | 300300 ns  | 42600 ns   | 3100 ns      |
+| 1000 | 1829600 ns | 170200 ns  | 12100 ns     |
 
 Analysis
 
